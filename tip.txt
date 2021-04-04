@@ -1,0 +1,8 @@
+postman 대용 -> curl
+curl -H "Content-Type: application/json" -X POST https://kermit-
+sites.run.goorm.io/register -d "{\"name\":\"kermit\", \"email\":\"testuser1107@naver.com\", \"password\": \"test1234\"}"
+
+or
+
+curl -H "Content-Type: application/json" -X POST https://kermit-sites.run.goorm.io/register -d @test.json
+{"success":true}
