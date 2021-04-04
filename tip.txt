@@ -4,5 +4,5 @@ sites.run.goorm.io/register -d "{\"name\":\"kermit\", \"email\":\"testuser1107@n
 
 or
 
-curl -H "Content-Type: application/json" -X POST https://kermit-sites.run.goorm.io/register -d @test.json
-{"success":true}
+curl -H "Content-Type: application/json" -X POST https://k
+ermit-sites.run.goorm.io/register -d @test.json
